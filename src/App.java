@@ -8,5 +8,8 @@ public class App {
         String name = scanner.nextLine();
         System.out.println("Hello, " + name + "! Welcome to Java programming.");
         scanner.close();
+        System.out.println("Hello, " + name + "! segundo commit");
+
+
     }
 }
