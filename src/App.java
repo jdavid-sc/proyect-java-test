@@ -9,6 +9,7 @@ public class App {
         System.out.println("Hello, " + name + "! Welcome to Java programming.");
         scanner.close();
         System.out.println("Hello, " + name + "! segundo commit");
+        System.out.println("Se modifico el programa Java");
 
 
     }
