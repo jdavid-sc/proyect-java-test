@@ -12,5 +12,11 @@ public class App {
         System.out.println("Se modifico el programa Java");
 
 
+        int numero1 = 1;
+        int numero2 = 2;
+        int total = numero1 + numero2;
+
+        System.err.println("el total:"  + total);
+
     }
 }
